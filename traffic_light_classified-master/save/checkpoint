@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/Geogle Download/traffic_light_classified-master/traffic_light_classified-master/save\\model.ckpt-4999"
+all_model_checkpoint_paths: "E:/Geogle Download/traffic_light_classified-master/traffic_light_classified-master/save\\model.ckpt-4999"
